@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ad/ToramOnline-main/app/src/main/res/drawable/bg_button.xml" value="0.1085" />
+        <entry key="..\:/Ad/ToramOnline-main/app/src/main/res/layout/activity_login.xml" value="0.12" />
+        <entry key="..\:/Ad/ToramOnline-main/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Ad/ToramOnline-main/app/src/main/res/layout/box.xml" value="0.21" />
+        <entry key="..\:/Ad/ToramOnline-main/app/src/main/res/layout/custom_dialog.xml" value="0.17028985507246377" />
+        <entry key="..\:/Ad/ToramOnline-main/app/src/main/res/layout/custom_layout.xml" value="0.1" />
+        <entry key="..\:/Ad/ToramOnline-main/app/src/main/res/layout/lgl_layout.xml" value="0.22" />
+        <entry key="..\:/Ad/ToramOnline-main/app/src/main/res/layout/xw.xml" value="0.1" />
+        <entry key="..\:/Ad/ToramOnline-main/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/StudioProjects/ToramOnline/app/src/main/res/layout/activity_login.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/StudioProjects/ToramOnline/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Administrator/StudioProjects/ToramOnline/app/src/main/res/layout/box.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
